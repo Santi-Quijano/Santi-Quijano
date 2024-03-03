@@ -3,6 +3,10 @@
 <h3 align="center">Software Developer | Python Enthusiast | Mate Lover 🧉</h3>
 
 <!-- Contact -->
+<div align="right"> 
+  ![](https://komarev.com/ghpvc/?username=Santi-Quijano&style=flat-square)
+</div>
+
 <div align="center"> 
   <a href="mailto:santiquijano77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-santiquijano77%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -11,15 +15,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-SantiagoQuijano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-![](https://komarev.com/ghpvc/?username=Santi-Quijano)
-<!-- Skills -->
+
+<!-- Skills and Tools -->
 <h2 align="center">⚒️ Skills and Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,flask,javascript,react,nodejs,mysql,postgres,git,html,css" />
 </div>
 
-<!-- Stats -->
+<!-- GitHub Stats -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
@@ -37,4 +41,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
 </h3>
-
