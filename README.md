@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-santiquijano77.%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/nicoeugui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-NicoEugui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Santiago-Quijano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
