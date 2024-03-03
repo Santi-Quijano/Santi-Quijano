@@ -7,7 +7,7 @@
   <a href="mailto:santiquijano77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-santiquijano77%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/SantiagoQuijano](https://www.linkedin.com/in/santiago-quijano-823b49185/)" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-quijano-823b49185/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SantiagoQuijano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
