@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Python Enthusiast | Mate Lover 🧉</h3>
 
 <!-- Viewer Count -->
-<p align="right"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Santi-Quijano&style=flat-square" alt="viewer count" />
 </p>
 
@@ -28,7 +28,10 @@
 <div align="center">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Santi-Quijano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
+  <hr/> <!-- Add horizontal line for separation -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Santi-Quijano&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <br/>
+  <hr/> <!-- Add horizontal line for separation -->
 </div>
 
 <div align="center">
@@ -42,3 +45,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
 </h3>
+
