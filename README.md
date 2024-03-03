@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<h1 align="center">Hello, I'm Santiago Quijano</h1>
+<h1 align="center">Hello! I'm Santiago Quijano</h1>
 <h3 align="center">Software Developer | Python Enthusiast | Mate Lover</h3>
 
 <!-- Contact -->
