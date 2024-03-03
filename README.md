@@ -2,11 +2,6 @@
 <h1 align="center">Hello! I'm Santiago Quijano</h1>
 <h3 align="center">Software Developer | Python Enthusiast | Mate Lover 🧉</h3>
 
-<!-- Viewer Count -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Santi-Quijano&style=flat-square" alt="viewer count" />
-</p>
-
 <!-- Contact -->
 <div align="center"> 
   <a href="mailto:santiquijano77@gmail.com" target="_blank">
@@ -16,6 +11,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-SantiagoQuijano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+<!-- Viewer Count -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Santi-Quijano&color=blueviolet&style=flat-square" alt="viewer count" />
+</p>
 
 <!-- Skills and Tools -->
 <h2 align="center">⚒️ Skills and Tools ⚒️</h2>
@@ -34,6 +34,7 @@
   <hr/> <!-- Add horizontal line for separation -->
 </div>
 
+<!-- GitHub Streak -->
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Santi-Quijano&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
