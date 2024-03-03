@@ -1,6 +1,6 @@
 <!-- Introduction -->
-<h1 align="center">Hello, I'm [Your Name]</h1>
-<h3 align="center">Software Developer | Python Enthusiast | Coffee Lover</h3>
+<h1 align="center">Hello, I'm Santiago Quijano</h1>
+<h3 align="center">Software Developer | Python Enthusiast | Mate Lover</h3>
 
 <!-- Contact -->
 <div align="center"> 
