@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-SantiagoQuijano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
+![](https://komarev.com/ghpvc/?username=Santi-Quijano)
 <!-- Skills -->
 <h2 align="center">⚒️ Skills and Tools ⚒️</h2>
 <br/>
