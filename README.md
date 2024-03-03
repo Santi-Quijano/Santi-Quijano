@@ -4,7 +4,7 @@
 
 <!-- Contact -->
 <div align="center"> 
-  <a href="mailto:santiquijano77@gmail.com">
+  <a href="mailto:santiquijano77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-santiquijano77%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/santiago-quijano-823b49185/" target="_blank">
