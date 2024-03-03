@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santi-Quijano)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Santi-Quijano&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <!-- Typing Animation -->
