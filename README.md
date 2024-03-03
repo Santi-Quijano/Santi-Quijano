@@ -1,45 +1,41 @@
-<!-- Your Name and Introduction -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role/Title] from [Your Location]</h3>
+<!-- Introduction -->
+<h1 align="center">Hello, I'm [Your Name]</h1>
+<h3 align="center">Software Developer | Python Enthusiast | Coffee Lover</h3>
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
-<!-- Contact Buttons -->
+<!-- Contact -->
 <div align="center"> 
-  <a href="mailto:[Your Email]">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  <a href="mailto:nicolas03.eugui@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nicolas03.eugui%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[Your LinkedIn Profile URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/nicoeugui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-NicoEugui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
-<!-- Languages | Frameworks | Tools -->
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+<!-- Skills -->
+<h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- Customize the icons based on your preferences -->
-    <img src="https://skillicons.dev/icons?i=[icon1],[icon2],[icon3],[icon4],[icon5],[icon6],[icon7],[icon8],[icon9]" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,flask,java,hibernate,spring,nodejs,mysql,postgres,git" />
 </div>
 
 <!-- Stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
 <div align="center">
-  <!-- Customize the stats card based on your preferences -->
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=[Your GitHub Username]&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=[Your GitHub Username]&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=[Your GitHub Username]&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=[Your GitHub Username]&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <!-- Contributions -->
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <!-- Add your GitHub contribution grid snake here -->
-  <img alt="Snake eating my contributions" src="[Your GitHub Contribution Grid Snake URL]" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NicoEugui/NicoEugui/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <!-- Typing Animation -->
